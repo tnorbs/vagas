@@ -7,8 +7,8 @@
 
 ## Sobre nós
 
-A [Estante Virtual](https://estantevirtual.com.br) é o maior portal de compra e venda de livros do Brasil,
-reunindo mais de 14 milhões de livros dos melhores sebos e livreiros do país. 
+A [Estante Virtual](https://estantevirtual.com.br) é o maior portal de compra e venda de livros usados
+e seminovos do Brasil, reunindo mais de 16.5 milhões de livros dos melhores sebos e livreiros do país. 
 
 A empresa é líder absoluta no setor desde a sua fundação em 2005
 e orgulha-se de oferecer ótimas condições de desenvolvimento criativo à sua equipe.  
