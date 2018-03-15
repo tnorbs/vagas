@@ -34,7 +34,7 @@ aprender novas técnicas e métodos de trabalho. Focando sempre em entregas com 
 
 * O que queremos usar:
 
-  Vuejs, Sass, PostCss, Webpack, ES6, HTML5, PWA, SSR e algumas *"coisitas mas"*.
+  Vuejs, Sass, PostCss, Webpack, ES6, HTML5, PWA, SSR e algumas *"coisitas más"*.
     
 * O que você precisa conhecer para se candidatar:
 
@@ -49,7 +49,7 @@ aprender novas técnicas e métodos de trabalho. Focando sempre em entregas com 
 
 * O que queremos usar:
 
-  Native Script, Vuejs, ES6, Sass, Beacon e algumas *"coisitas mas"*.
+  Native Script, Vuejs, ES6, Sass, Beacon e algumas *"coisitas más"*.
     
 * O que você precisa conhecer para se candidatar:
 
@@ -64,7 +64,7 @@ aprender novas técnicas e métodos de trabalho. Focando sempre em entregas com 
 
 * O que estamos usando:
 
-  Python, Spark, Notebook, AWS Glue, Scikit Learn, Tensor Flow e algumas *"coisitas mas"*.
+  Python, Spark, Notebook, AWS Glue, Scikit Learn, Tensor Flow e algumas *"coisitas más"*.
 
 * Níveis de experiência desejáveis:
 
