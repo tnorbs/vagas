@@ -28,7 +28,7 @@ assertividade os rituais do desenvolvimento ágil com Scrum.
 ## Vagas
 
 Para ocupar nossas vagas buscamos pessoas interessadas em trabalhar com as mais novas tecnologias,
-interessadas em aprender novas técnicas e métodos de trabalho. Focando sempre em entregas com qualidade.
+aprender novas técnicas e métodos de trabalho. Focando sempre em entregas com qualidade.
 
 ### Frontend Web
 
