@@ -54,8 +54,10 @@ A partir do que foi proposto acima, agora faça:
 
 ### Proposta
 
-Para cada endereço deverá ser possível visualizar a distância (em linha reta),
-clima e um link que abrirá um mapa com a rota para o endereço.
+Para cada endereço deverá ser possível visualizar:
+1. a distância (em linha reta) da [localização atual do usuário](https://www.w3schools.com/html/html5_geolocation.asp)
+2. clima no endereço
+3. um link que abrirá um mapa com a rota para o endereço.
 
 ### APIs Sugeridas
 
