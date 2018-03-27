@@ -37,7 +37,7 @@ da página e voltar, a lista deverá ser recuperada do LocalStorage.
 
 ### APIs Sugeridas
 
-* [ViaCep](viacep.com.br)
+* [ViaCep](https://viacep.com.br)
 
 ### Frameworks recomendados
 
