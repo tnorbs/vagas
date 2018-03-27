@@ -19,7 +19,7 @@ Gerar relatórios baseado em dados de Formula1.
 
 ## Relatórios:
 
-1. Pontuação média por temporada dos 20 melhores pilotos das últimas 10 temporadas
+1. Pontuação mediana por temporada dos 20 melhores pilotos das últimas 10 temporadas
 
 2. Todas as corridas onde apenas 3 equipes pontuaram.
 
@@ -31,6 +31,9 @@ Gerar relatórios baseado em dados de Formula1.
 
    o piloto não pode ter subido em um pódio em sua carreira da formula um para entrar nesse grupo
 
+Gere os relatório em um formato **xlxs**, não esqueça adicionar os relatórios no
+seu repositório.
+
 ## Dataset
 
 1. [Formula 1 Race Data](https://www.kaggle.com/cjgdev/formula-1-race-data-19502017)
@@ -39,4 +42,6 @@ Gerar relatórios baseado em dados de Formula1.
 
 * [Pandas](https://pandas.pydata.org/)
 * [PySpark](https://spark.apache.org/docs/latest/quick-start.html)
+* [Docker com Jupyter](https://hub.docker.com/r/jupyter/)
+* [Docker com Jupyter/PySpark](https://hub.docker.com/r/jupyter/pyspark-notebook/)
 
