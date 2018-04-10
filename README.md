@@ -9,7 +9,7 @@
 
 De **Watch** neste repositório para receber todas as vagas na Estante Virtual
 
-![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch)
+[![GitHub watchers](https://img.shields.io/github/watchers/estantevirtual/vagas.svg?style=social&label=Watch)](https://github.com/estantevirtual/vagas)
 
 Para qualguer dúvida sobre **vagas**, você pode nos chamar em nosso **Telegram**
 
