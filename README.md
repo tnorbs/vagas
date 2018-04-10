@@ -5,6 +5,12 @@
 * [Vagas](#vagas)
 * [Enviar Currículo](#enviar-currículo)
 
+#### Dica
+
+De **Watch** neste repositório para receber todas as vagas na Estante Virtual
+
+![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch)
+
 ## Sobre nós
 
 A [Estante Virtual](https://estantevirtual.com.br) é o maior portal de compra e venda de livros usados
