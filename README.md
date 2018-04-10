@@ -11,6 +11,10 @@ De **Watch** neste repositório para receber todas as vagas na Estante Virtual
 
 ![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch)
 
+Para qualguer dúvida sobre **vagas**, você pode nos chamar em nosso **Telegram**
+
+* [@rhestantevirtual](https://t.me/rhestantevirtual)
+
 ## Sobre nós
 
 A [Estante Virtual](https://estantevirtual.com.br) é o maior portal de compra e venda de livros usados
