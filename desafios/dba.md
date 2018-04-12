@@ -79,7 +79,7 @@ UPDATE absoluto.livros l INNER JOIN (
     JOIN checkout.itens c ON v.livro_id = c.livro_id
     JOIN checkout.carrinho cr on cr.id = c.carrinho_id 
   WHERE
-     cr.log = now() - INTERVAL 30 DAY
+     cr.log >= now() - INTERVAL 30 DAY
   GROUP BY 1
   ) as s on s.isbn = p.isnb
 SET l.peso = s.peso
