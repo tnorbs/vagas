@@ -29,7 +29,7 @@ ocorrem alguns erros em sistema que necessitam desta tabela.
 
 ### Query
 
-```
+```sql
   SELECT
     i.produto_id,
     i.titulo,
@@ -69,7 +69,7 @@ impossibilitando vendas durante o período que está sendo executada.
 
 ### Update
 
-```
+```sql
 UPDATE absoluto.livros l INNER JOIN (
   SELECT
     m.isbn,
