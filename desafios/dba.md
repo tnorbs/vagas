@@ -10,13 +10,13 @@ Envie o link da sua solução (ou [Gist](https://gist.github.com/)),
 para que possamos avaliar sua solução e práticas utilizadas. Se possível, inclua
 links com artigos para embasar sua solução.
 
-Nosso banco de dados principal utiliza o Mysql
+Nosso banco de dados é Mysql.
 
 *Contexto geral*
 
 Temos um cluster de Mysql, com 1 banco master e 2 slaves.
 Todas as escritas são feitas no banco master e todas as leituras de dados
-são feitas em dos slaves e todos os relatórios são feitos no outro slave.
+são feitas em um dos slaves e todos os relatórios são feitos no outro slave.
 
 ## Problema 1
 
