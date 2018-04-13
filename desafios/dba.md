@@ -65,7 +65,7 @@ Precisamos rodar uma query de atualização de pesos na base absoluta de livros
 baseado no histórico de vendas de itens. Esta consulta percorre 3 schemas diferentes
 e é executada 1x por mês. 
 
-Quando é executada, está demorando 5 horas e realizando LOCKs nas tabelas,
+Quando é executada, está demorando 10 horas e realizando LOCKs nas tabelas,
 impossibilitando vendas durante o período que está sendo executada.
 
 ### Update
