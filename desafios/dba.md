@@ -98,5 +98,5 @@ SET l.peso = s.peso
 
 Com a evolução constante em nossos sistemas e regras de negócio,
 eventualmente precisamos adicionar novas colunas em tabelas extremamente grandes
-em nosso banco de dados. Quais estratégias podemos executar para ter o mínimo ou 0
-de downtime em nossa aplicação?
+em nosso banco de dados. Recentemente fizemos uma alteração desse tipo em uma de nossas tabelas,
+alguns clientes não conseguiram realizar compras e perdemos algumas vendas.
