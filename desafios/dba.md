@@ -30,7 +30,8 @@ ocorrem alguns erros em sistema que necessitam desta tabela.
 ### Query
 
 ```sql
-  SELECT
+  DROP TABLE analise_historico;
+  CREATE TABLE analise_historico AS SELECT
     i.produto_id,
     i.titulo,
     i.autor,
