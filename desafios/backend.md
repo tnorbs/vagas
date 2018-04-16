@@ -14,26 +14,26 @@ Através da API, deveremos ser capazes de:
 
 1. Criar uma competição
 2. Cadastrar resultados para uma competição (todos os campos são obrigatórios), 
-ex: 
-```json
-{
-  "competicao": "100m classificatoria 1", 
-  "atleta": "Joao das Neves", 
-  "value": "10.234", 
-  "unidade": "s"
-}
-```
-ex: 
-```json
-{
-  "competicao": "Dardo semifinal", 
-  "atleta": "Claudio", 
-  "value": "70.43", 
-  "unidade": "m"
-}
-```
-4. Finalizar uma competição.
-3. Retornar o ranking da competição, exibindo a posição final de cada atleta.
+  ex: 
+  ```json
+  {
+    "competicao": "100m classificatoria 1", 
+    "atleta": "Joao das Neves", 
+    "value": "10.234", 
+    "unidade": "s"
+  }
+  ```
+  ex: 
+  ```json
+  {
+    "competicao": "Dardo semifinal", 
+    "atleta": "Claudio", 
+    "value": "70.43", 
+    "unidade": "m"
+  }
+  ```
+3. Finalizar uma competição.
+4. Retornar o ranking da competição, exibindo a posição final de cada atleta.
 
 
 ### **Detalhes**:
