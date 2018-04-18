@@ -82,4 +82,4 @@ aprender novas técnicas e métodos de trabalho. Focando sempre em entregas com 
 
 # Enviar Currículo
 
-Envie suas informações para: https://www.linkedin.com/jobs/view/590822269/
+Envie suas informações para: https://www.linkedin.com/jobs/cap/view/625955701
