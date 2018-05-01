@@ -13,7 +13,7 @@ De **Watch** neste repositório para receber todas as vagas na Estante Virtual
 
 Para qualguer dúvida sobre **vagas**, você pode nos chamar em nosso **Telegram**
 
-* [@rhestantevirtual](https://t.me/rhestantevirtual)
+[![Telegram @rhestantevirtual](https://img.shields.io/badge/Telegram%20%F0%9F%92%AC-%40rhestantevirtual-blue.svg)](https://t.me/rhestantevirtual)
 
 ## Sobre nós
 
