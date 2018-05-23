@@ -4,80 +4,72 @@ Fica a seu critério escolher que até que etapa se comprometerá a entregar.
 
 **Observações:**
 
-Não faça fork deste repositório
+Não faça fork deste repositório. Envie o link do seu repositório, para que
+possamos avaliar seu código, práticas utilizadas, testes, padrões utilizados,
+frameworks e bibliotecas.
 
-Envie o link do seu repositório, para que possamos avaliar seu código, práticas
-utilizadas, testes, padrões utilizados, frameworks e bibliotecas.
+Escreve um **README** instruindo como montar o ambiente para rodar seu
+aplicativo. Se você escrever testes, nos diga também como
+rodá-los. Se você usar algum tipo de framework de geração de código,
+nos diga como usá-lo.
 
-Escreve um **README** instruindo como montar o ambiente para rodar seu projeto e
-compilar seu aplicativo.
+Apesar de ser um projeto bem pequeno, faça uso das melhores práticas de
+programação que souber. Sinta-se encorajado a escrever testes :)
 
 Cada etapa deve ser entregue em uma TAG diferente do seu repositório.
-
-Faça uso de práticas como: Linguagem Ubíqua, KISS, DRY e outras.
 
 A qualidade do produto entregue e seus detalhes de apresentação contarão para
 sua avaliação. Fique à vontade para adicionar mais funcionalidades ao que fora
 proposto, mas não esqueça de garantir qualidade na sua solução como um todo.
 
+Lembre de fazer a UI do seu projeto de acordo com os padrões da plataforma
+para qual está desenvolvendo.
+
+Você pode fazer o desafio usando Kotlin, Swift ou React-native. Se
+React-native for escolhido, nós iremos testar o aplicativo tanto no android
+como no iOS. Caso usa Kotlin ou Swift, ele será testado apenas na sua
+plataforma específica (obviamente).
+
 ## Etapa 1
 
 ### Proposta:
 
-Implementar um APP para facilitar o cadastro de livros de uma loja para controlar seu 
-estoque.
+Implementar um app nativo que lista linguagens de programação.
 
 ### Funcionalidades:
 
-* Lista de livros já cadastrados.
-* Cadastrar mais livros
-  * Usando a câmera com leitor de código de barra (**Obrigatório**)
-  * Usando campo de digitação de números do ISBN (failover)
-* Obter dados do livro em uma API usando o ISBN
-* Solicitar o valor e quantidade em estoque do livro cadastrado
-* Permitir alterar informações do livro
+* Lista de linguagens de programação, disponível em: *https://cultura-languages.herokuapp.com/languages*
+Na lista, exibir apenas a imagem e o nome da linguagem.
+* Ao clicar numa linguagem da lista, ir para tela de detalhes dela, onde todos os campos serão exibidos.
 
-### APIs Sugeridas
-
-* [ISBNdb.com]('https://isbndb.com/')
-
-
-### Frameworks indicados
-
-* [NativeScript Vue](https://nativescript-vue.org/)
-
-
-## Etapa 2A
+## Etapa 2 (opcional)
 
 A partir do que foi proposta na etapa 1, agora faça:
 
 
 ### Proposta
 
-* Permitir adicionar varias fotos de um livro
-* Permitir o **crop** da capa de um livro
+* Permitir que o usuário "favorite" uma linguagem. Salve essa lista de favoritos localmente.
 
 
-## Etapa 2B
+## Etapa 3 (opcional)
 
-A partir do que foi proposto na etapa 1, agora faça:
+A partir do que foi proposto na etapa 2, agora faça:
 
 
 ### Proposta
 
-1. Permitir login social utilizando Firebase
-2. Armazenar os livros cadastrados em um dos bancos do Firebase
-3. Armazenar fotos no Firebase Storage (caso tenha feito a Etapa 2A)
-4. Permitir o sync realtime entre dispositivos logados com a mesma conta
+* Salvar a lista de favoritos no [Firebase](https://firebase.google.com/), no modo anônimo.
+Pode ser usado outro backend, caso não queira usar o firebase.
+
+## Etapa Coringa (opcional)
+
+Essa etapa pode ser feita independente das outras etapas opcionais
+A partir do que foi proposto em qualquer etapa, agora faça:
 
 
-### APIs Sugeridas
+### Proposta
 
-* [Firebase](https://firebase.google.com/)
-
-
-### Frameworks recomendados
-
-* [VueFire](https://github.com/vuejs/vuefire)
-
-
+* Dar a possibilidade pro usuário compartilhar uma linguagem. (compartilhar por email, Facebook, Twitter, etc)
+* Deeplink pra lista de linguagens.
+* Deeplink para tela de detalhes de uma linguagem. A URL para pegar os dados de uma linguagem específica é: https://cultura-languages.herokuapp.com/languages/1
