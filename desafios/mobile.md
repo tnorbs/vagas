@@ -39,7 +39,7 @@ Implementar um app nativo que lista linguagens de programação.
 ### Funcionalidades:
 
 * Lista de linguagens de programação, disponível em: *https://cultura-languages.herokuapp.com/languages?page=1*
-Na lista, exibir apenas a imagem e o nome da linguagem.
+(na lista, exibir apenas a imagem e o nome da linguagem).
 * Ao clicar numa linguagem da lista, ir para tela de detalhes dela, onde todos os campos serão exibidos.
 
 ## Etapa 2 (opcional)
