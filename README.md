@@ -48,7 +48,7 @@ aprender novas técnicas e métodos de trabalho. Focando sempre em entregas com 
 
 * O que queremos usar alem do que já usamos:
 
-  **Python**, Django, Lambda AWS, SNS, ECS com Fargate, Zappa, Node, Kubernets e algumas *"cositas más"*
+  **Python**, Django, Lambda AWS, SNS, ECS com Fargate, Zappa, Node, Elasticsearch, Kubernets e algumas *"cositas más"*
 
 * Conceitos que seguimos:
 
