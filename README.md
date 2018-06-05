@@ -40,6 +40,24 @@ assertividade os rituais do desenvolvimento ágil com Scrum.
 Para ocupar nossas vagas buscamos pessoas interessadas em trabalhar com as mais novas tecnologias,
 aprender novas técnicas e métodos de trabalho. Focando sempre em entregas com qualidade.
 
+### Backend
+
+* O que usamos :
+
+  **Ruby**, Rails, Perl, Git, Rabbitmq, Mysql, Postgres, Resque, Sidekiq, Redis, AWS, OpsWorks, Docker e algumas *"cositas más"*
+
+* O que queremos usar alem do que já usamos:
+
+  **Python**, Django, Lambda AWS, SNS, ECS com Fargate, Zappa, Node, Kubernets e algumas *"cositas más"*
+
+* Conceitos que seguimos:
+
+  DDD, TDD, Scrum, Microserviços, Serverless, Arquitetura Hexagonal.
+
+* Níveis de experiência desejáveis:
+
+  Sênior e Pleno
+
 ### Frontend Web
 
 * O que queremos usar:
