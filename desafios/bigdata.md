@@ -45,6 +45,7 @@ o carregamento deve gerar um arquivo no formato Parquet para cada tabela.
 ## Downloads
 
 * [Base de dados Formula 1 - SQLite3](https://raw.githubusercontent.com/estantevirtual/vagas/desafio-bigdata-ev/desafios/assets/formula-1.tar.xz)
+    - clicar no link com o botão direito e em `Salvar link como...`
 
 ## Referências
 
