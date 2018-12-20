@@ -23,7 +23,7 @@ Na etapa #1, uma base de dados do histórico de corridas de Fórmula 1 será
 disponibilizada. A mesma encontra-se no arquivo `formula-1.tar.xz`, no formato
 do banco relacional SQLite3.
 
-![](https://raw.githubusercontent.com/estantevirtual/vagas/desafio-bigdata-ev/desafios/assets/schema-formula-1.png)
+![](https://raw.githubusercontent.com/estantevirtual/vagas/master/desafios/assets/schema-formula-1.png)
 > Modelagem do banco de dados referente à Fórmula 1
 
 O objetivo é responder, através de queries na linguagem SQL, os relatórios abaixo:
@@ -44,7 +44,7 @@ o carregamento deve gerar um arquivo no formato Parquet para cada tabela.
 
 ## Downloads
 
-* [Base de dados Formula 1 - SQLite3](https://raw.githubusercontent.com/estantevirtual/vagas/desafio-bigdata-ev/desafios/assets/formula-1.tar.xz)
+* [Base de dados Formula 1 - SQLite3](https://raw.githubusercontent.com/estantevirtual/vagas/master/desafios/assets/formula-1.tar.xz)
     - clicar no link com o botão direito e em `Salvar link como...`
 
 ## Referências
