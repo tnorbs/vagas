@@ -28,12 +28,13 @@ do banco relacional SQLite3.
 
 O objetivo é responder, através de queries na linguagem SQL, os relatórios abaixo:
 
-  1. Pontuação média por temporada dos 20 melhores pilotos das últimas 10 temporadas
+  1. Pontuação média dos 20 melhores pilotos das últimas 10 temporadas
   2. Todas as corridas onde apenas 3 equipes pontuaram
   3. Melhor tempo de Pitstop e equipe que executou e piloto que estava no carro por temporada
   4. Melhor tempo de Pitstop por equipe por temporada
   5. Piloto que mais pontuou daqueles que nunca subiram no pódio 
       - O piloto não pode ter subido no pódio em sua carreira da Fórmula 1 para entrar nesse grupo
+  6. Pontuação mediana por temporada dos 20 melhores pilotos das últimas 10 temporadas
 
 Na etapa #2, a proposta é realizar um processo de extração e carregamento de dados,
 utilizando a linguagem de programação Python e suas bibliotecas disponíveis - listamos
