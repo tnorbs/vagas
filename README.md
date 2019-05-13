@@ -40,6 +40,13 @@ assertividade os rituais do desenvolvimento ágil com Scrum.
 Para ocupar nossas vagas buscamos pessoas interessadas em trabalhar com as mais novas tecnologias,
 aprender novas técnicas e métodos de trabalho. Focando sempre em entregas com qualidade.
 
+## Estágios:
+
+Independente das vagas, é nessesário apenas ter alguma experiencia com linux, docker e git,
+alem de saber alguma linguagem de programação como Python, Javascript ou Ruby.
+
+Buscamos pessoas interessadas em aprender e desenvolver seu conhecimento utilizando nossos desafios para alavancar sua experiência. Entenda a descrição das vagas como o que você aprenderá enquanto estiver estagiando conosco e não como pré requisito para se candidatar.
+
 ### Backend
 
 * O que usamos :
@@ -71,21 +78,21 @@ aprender novas técnicas e métodos de trabalho. Focando sempre em entregas com 
 
 * Níveis de experiência desejáveis:
 
-  Júnior, Pleno ou Sênior
+  Estágio, Júnior, Pleno ou Sênior
 
 ### Mobile
 
 * O que queremos usar:
 
-  Kotlin, Swift, React-native e algumas *"cositas más"*.
+  Desenvolvimento nativo em Kotlin e Swift com algumas *"cositas más"*.
 
 * O que você precisa conhecer para se candidatar:
 
-  Swift, Java, Kotlin OU JavaScript (React/React-native).
+  Swift ou Kotlin.
 
 * Níveis de experiência desejáveis:
 
-  Júnior, Pleno ou Sênior
+  Estágio, Júnior, Pleno ou Sênior
 
 ### Big Data / Machine Learning
 
@@ -95,8 +102,22 @@ aprender novas técnicas e métodos de trabalho. Focando sempre em entregas com 
 
 * Níveis de experiência desejáveis:
 
-  Júnior, Pleno ou Sênior
+  Estágio, Júnior, Pleno ou Sênior
+  
+### Devops / SRE
 
+* O que estamos usando:
+
+  Ambiente AWS com algumas coisas do GCP, Chef com Opsworks, Lambda e Gitlab-CI. Com um pouco de Docker
+  
+* O que queremos usar alem do que já usamos:
+
+  Terraform, Kubernetes, Docker, ECS, EKS, ELK, Grafana, Prometheus
+  
+* Níveis de experiência desejáveis:
+
+  Estágio, Júnior, Pleno ou Sênior
+  
 # Enviar Currículo
 
-Envie suas informações para: https://www.linkedin.com/jobs/cap/view/625955701
+Envie suas informações para nosso telegram: [@rhestantevirtual](https://t.me/rhestantevirtual)
