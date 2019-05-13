@@ -42,10 +42,10 @@ aprender novas técnicas e métodos de trabalho. Focando sempre em entregas com 
 
 ## Estágios:
 
-Independente das vagas, é nessesário apenas ter alguma experiencia com linux, docker e git,
-alem de saber alguma linguagem de programação como Python, Javascript ou Ruby.
+Independentemente das vagas, é necesário apenas ter alguma experiência com linux, docker e git,
+além de saber alguma linguagem de programação como Python, Javascript ou Ruby.
 
-Buscamos pessoas interessadas em aprender e desenvolver seu conhecimento utilizando nossos desafios para alavancar sua experiência. Entenda a descrição das vagas como o que você aprenderá enquanto estiver estagiando conosco e não como pré requisito para se candidatar.
+Buscamos pessoas interessadas em aprender e desenvolver seu conhecimento utilizando nossos desafios para alavancar sua experiência. Entenda a descrição das vagas como o que você aprenderá enquanto estiver estagiando conosco e não como pré-requisito para se candidatar.
 
 ### Backend
 
