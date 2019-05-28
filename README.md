@@ -42,18 +42,18 @@ aprender novas técnicas e métodos de trabalho. Focando sempre em entregas com 
 
 ## Estágios:
 
-Independentemente das vagas, é necesário apenas ter alguma experiência com linux, docker e git,
+Independentemente das vagas, é necessário apenas ter alguma experiência com linux, docker e git,
 além de saber alguma linguagem de programação como Python, Javascript ou Ruby.
 
 Buscamos pessoas interessadas em aprender e desenvolver seu conhecimento utilizando nossos desafios para alavancar sua experiência. Entenda a descrição das vagas como o que você aprenderá enquanto estiver estagiando conosco e não como pré-requisito para se candidatar.
 
 ### Backend
 
-* O que usamos :
+* O que usamos:
 
   **Ruby**, Rails, Perl, Git, Rabbitmq, Mysql, Postgres, Resque, Sidekiq, Redis, AWS, OpsWorks, Docker e algumas *"cositas más"*
 
-* O que queremos usar alem do que já usamos:
+* O que queremos usar além do que já usamos:
 
   **Python**, Django, Lambda AWS, SNS, ECS com Fargate, Zappa, Node, Elasticsearch, Kubernets e algumas *"cositas más"*
 
