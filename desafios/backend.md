@@ -1,6 +1,16 @@
 # Teste prático da EstanteVirtual #
-## Jogos Olímpicos ##
 
+### Recomendações:
+
+Não faça fork deste repositório
+
+Envie o link do seu repositório, para que possamos avaliar seu código, práticas utilizadas, testes, padrões utilizados, frameworks e bibliotecas.
+
+Faça uso de práticas como: Linguagem Ubíqua, KISS, DRY e outras.
+
+A qualidade do produto entregue e seus detalhes de apresentação contarão para sua avaliação. Fique à vontade para adicionar mais funcionalidades ao que fora proposto, mas não esqueça de garantir qualidade na sua solução como um todo.
+
+## Jogos Olímpicos ##
 Com a chegada dos jogos olímpicos, fomos designados para construir uma API 
 **REST** em **Ruby** para o COB (Comitê Olímico Brasileiro), que será responsável 
 por marcar e dizer os vencedores das seguintes modalidades:
