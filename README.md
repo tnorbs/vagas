@@ -11,9 +11,6 @@ De **Watch** neste repositório para receber todas as vagas na Estante Virtual
 
 [![GitHub watchers](https://img.shields.io/github/watchers/estantevirtual/vagas.svg?style=social&label=Watch)](https://github.com/estantevirtual/vagas)
 
-Para qualguer dúvida sobre **vagas**, você pode nos chamar em nosso **Telegram**
-
-[![Telegram @rhestantevirtual](https://img.shields.io/badge/Telegram%20%F0%9F%92%AC-%40rhestantevirtual-blue.svg)](https://t.me/rhestantevirtual)
 
 ## Sobre nós
 
@@ -117,7 +114,4 @@ Buscamos pessoas interessadas em aprender e desenvolver seu conhecimento utiliza
 * Níveis de experiência desejáveis:
 
   Estágio, Júnior, Pleno ou Sênior
-  
-# Enviar Currículo
-
-Envie suas informações para nosso telegram: [@rhestantevirtual](https://t.me/rhestantevirtual)
+ 
